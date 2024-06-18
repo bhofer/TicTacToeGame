@@ -26,34 +26,7 @@ public class TicTacToeAI
             }
         }
 
-
-
-
-        //for (int i = 0; i < board.Length; i++)
-        //{
-        //    if (board[i] == GameManager.Player.None)
-        //    {
-        //        move = i;
-        //        break;
-        //    }
-        //}
-
         return move;
-
-
-        /*
-         * int[] corners = { 0, 2, 6, 8 };
-        corners = corners.OrderBy(x => Random.value).ToArray();
-
-        foreach (int index in corners)
-        {
-            if (board[index] == GameManager.Player.None)
-            {
-                return index;
-            }
-        }
-        return -1;
-         */
     }
 
     public int GetBestMove()

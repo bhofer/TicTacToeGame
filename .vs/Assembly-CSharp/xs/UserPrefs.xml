@@ -1,10 +1,20 @@
-﻿<Properties StartupConfiguration="{D0007EE5-A69F-B9CC-92D6-6965199DB3AE}|">
-  <MonoDevelop.Ide.Workbench>
+﻿<Properties StartupConfiguration="{EC85223C-5F0F-1F9D-B45A-9D9BC3BA2DEC}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/TicTacToeAI.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Cell.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/TicTacToeAI.cs" Line="27" Column="10" />
+      <File FileName="Assets/Scripts/UIManager.cs" Line="1" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Assembly-CSharp" expanded="True">
-            <Node name="Assets" expanded="True" selected="True" />
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="TicTacToeAI.cs" selected="True" />
+              </Node>
+            </Node>
           </Node>
         </State>
       </Pad>
@@ -12,7 +22,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e95a77ff-f262-4329-a5fd-43c8bf52ebfb" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f3f9c085-25ce-4bb2-b8dc-5b7a04f6a7b1" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
